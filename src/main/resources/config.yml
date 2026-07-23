@@ -1,0 +1,13 @@
+# ========================================================
+#              VaultEconomy Configuration File
+# ========================================================
+
+starting-balance: 1000.0
+currency-symbol: "$"
+
+messages:
+  prefix: "<gradient:#00FF87:#60EFFF><bold>Economy</bold></gradient> <gray>»</gray> "
+  balance: "<prefix><gray>Votre solde actuel : <green>{balance}</green></gray>"
+  paid: "<prefix><green>Vous avez envoyé <yellow>{amount}</yellow> à <aqua>{player}</aqua> !</green>"
+  received: "<prefix><green>Vous avez reçu <yellow>{amount}</yellow> de <aqua>{player}</aqua> !</green>"
+  insufficient-funds: "<prefix><red>Fonds insuffisants !</red>"

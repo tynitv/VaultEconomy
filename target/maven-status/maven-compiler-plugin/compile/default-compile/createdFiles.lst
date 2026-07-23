@@ -1,0 +1,4 @@
+fr\tynitv\vaulteconomy\command\BalanceCommand.class
+fr\tynitv\vaulteconomy\VaultEconomy.class
+fr\tynitv\vaulteconomy\economy\EconomyManager.class
+fr\tynitv\vaulteconomy\command\PayCommand.class

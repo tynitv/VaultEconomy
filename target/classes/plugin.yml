@@ -1,0 +1,11 @@
+name: VaultEconomy
+version: '1.0.0'
+main: fr.tynitv.vaulteconomy.VaultEconomy
+api-version: '1.20'
+description: Modern Multi-Currency and Vault Economy Engine for Paper 1.21.1
+commands:
+  balance:
+    description: Consulter votre solde actuel
+    aliases: [bal, money]
+  pay:
+    description: Envoyer de l'argent a un joueur
